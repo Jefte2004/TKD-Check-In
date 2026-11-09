@@ -1,4 +1,4 @@
-\# TKD Check-In
+\TKD Check-In
 
 
 
@@ -6,7 +6,7 @@ Sistema inteligente para la gestión de torneos de Taekwondo, registro de compet
 
 
 
-\## Descripción
+\Descripción
 
 
 
@@ -14,7 +14,7 @@ TKD Check-In es una plataforma que busca automatizar el proceso de registro y pe
 
 
 
-\## Objetivos
+\Objetivos
 
 
 
@@ -34,29 +34,29 @@ TKD Check-In es una plataforma que busca automatizar el proceso de registro y pe
 
 
 
-\## Roles del sistema
+\Roles del sistema
 
 
 
-\### Organizador
+\Organizador
 
 Administra los torneos, crea salas, registra academias y habilita a los profesores.
 
 
 
-\### Profesor
+\Profesor
 
 Gestiona los competidores de su academia, realiza registros y opera el proceso de pesaje desde una sala habilitada.
 
 
 
-\### Competidor
+\Competidor
 
 Participa en el torneo y proporciona sus datos mediante el profesor de su academia.
 
 
 
-\## Arquitectura propuesta
+\Arquitectura propuesta
 
 
 
@@ -64,7 +64,7 @@ ESP32 + HX711 → API → Base de datos → Prolog → Dashboard.
 
 
 
-\## Tecnologías propuestas
+\Tecnologías propuestas
 
 
 
@@ -84,7 +84,7 @@ ESP32 + HX711 → API → Base de datos → Prolog → Dashboard.
 
 
 
-\## Estado del proyecto
+\Estado del proyecto
 
 
 
